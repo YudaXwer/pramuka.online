@@ -1,15 +1,15 @@
 function SubmitGhIssue() {
   return (
     <div className="mt-4 text-sm text-gray-600 dark:text-gray-100">
-      Tidak menemukan yang kamu cari? Kamu bisa membuat permintaan penambahan data baru melalui
+      Ingin Mengasih Saran/Menambahkan Informasi Tentang Ilmu Kepramukaan? Dm Ig
       {` `}
       <a
-        href="https://github.com/mazipan/pramuka.online/issues/new"
+        href="https://instagram.com/yuda_xyz7"
         target="_blank"
         rel="noopenner noreferrer"
         className="text-link"
       >
-        Github issue
+       Instagram 
       </a>
     </div>
   )
